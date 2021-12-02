@@ -1,0 +1,1 @@
+C:\#\ William\projects\advent-of-code-2021-solutions\day1-2\target\debug\day1-2.exe: C:\#\ William\projects\advent-of-code-2021-solutions\day1-2\input.txt C:\#\ William\projects\advent-of-code-2021-solutions\day1-2\src\main.rs
